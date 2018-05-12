@@ -1,9 +1,8 @@
 _repo: The-Plan-of-Salvation_46617
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46617/46617-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46617-h/images/cover.jpg
 creator:
   author:
     agent_name: Morgan, John (John Hamilton)
@@ -13,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43934
     wikipedia: http://en.wikipedia.org/wiki/John_Hamilton_Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46617#The-Plan-of-Salvation
 gutenberg_issued: '2014-08-18'
 gutenberg_type: Text
 identifiers:
